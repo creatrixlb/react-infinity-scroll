@@ -1,0 +1,27 @@
+{
+    "name": "@creatrix/react-infinity-scroll",
+    "version": "0.0.1",
+    "description": "Infinite scroll component for React in ES6",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/creatrixlb/typeofdata.git"
+    },
+    "keywords": [
+      "infinite",
+      "scroll",
+      "react"
+    ],
+    "author": "Creatrix Digital Agency <developer@creatrix-lb.com> (https://creatrix-lb.com)",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/creatrixlb/react-infinity-scroll/issues"
+    },
+    "dependencies": {
+        "prop-types": "^15.7.2"
+    },
+    "homepage": "https://github.com/creatrixlb/react-infinity-scroll#readme"
+  }
